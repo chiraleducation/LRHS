@@ -15,7 +15,7 @@ font = "font4"
 day_night = false
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A full-day workshop on the R Markdown family of packages for the Statistical Society of Australia"
+description = "Literature Review in Health Sciences will provide students a foundation in literature review in health sceinces from planning to writing."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "share.jpg"
